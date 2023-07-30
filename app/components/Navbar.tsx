@@ -13,7 +13,7 @@ import Image from "next/image"
 
 const Navbar = () => {
   return (
-    <div className="flex  w-full h-fit p-4 bg-slate-50 shadow-sm place-items-center font-semibold text-base">
+    <div className="flex  w-full h-fit p-4 bg-slate-500 shadow-sm place-items-center font-semibold text-base">
       <Image
         alt="InstaApp"
         src={"/vercel.svg"}
