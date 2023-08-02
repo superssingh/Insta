@@ -21,7 +21,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <body className={inter.className}>
-          <div className="grid relative min-w-full min-h-screen max-w-2xl bg-gray-900 ">
+          <div className="grid relative w-full min-h-screen   bg-slate-100 text-gray-700 ">
             <Navbar />
             {children}
             <div>Footer</div>
