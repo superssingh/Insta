@@ -4,7 +4,7 @@ import Link from "next/link"
 
 const menus = [
   { name: "home", path: "/" },
-  { name: "clog", path: "/blog" },
+  { name: "blog", path: "/blog" },
   { name: "course", path: "/course" },
   { name: "todo", path: "/todo" },
 ]
